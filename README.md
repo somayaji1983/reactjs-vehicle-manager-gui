@@ -1,5 +1,5 @@
 
-## Table of Contents
+## Project Overview
 
 This project developed using react js which will consume REST web service with json data to display in GUI.
 The example code includes
